@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-09T16:50:08 ICT" name="Suite1" finished-at="2025-04-09T16:50:36 ICT" duration-ms="28088">
+    <groups>
+    </groups>
+    <test started-at="2025-04-09T16:50:08 ICT" name="exampletest1" finished-at="2025-04-09T16:50:36 ICT" duration-ms="28088">
+      <class name="Lab6.TestLogin2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Lab6.TestLogin2@7b02881e]" started-at="2025-04-09T16:50:08 ICT" name="setup" finished-at="2025-04-09T16:50:16 ICT" duration-ms="8008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:Lab6.TestLogin2@7b02881e]" started-at="2025-04-09T16:50:16 ICT" name="testLogin" finished-at="2025-04-09T16:50:35 ICT" duration-ms="18236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Lab6.TestLogin2@7b02881e]" started-at="2025-04-09T16:50:35 ICT" name="tearDown" finished-at="2025-04-09T16:50:36 ICT" duration-ms="1772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Lab6.TestLogin2 -->
+      <class name="Lab6.TestLogin1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Lab6.TestLogin1@31f9b85e]" started-at="2025-04-09T16:50:08 ICT" name="setup" finished-at="2025-04-09T16:50:16 ICT" duration-ms="7615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:Lab6.TestLogin1@31f9b85e]" started-at="2025-04-09T16:50:16 ICT" name="testLogin" finished-at="2025-04-09T16:50:34 ICT" duration-ms="17886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- Lab6.TestLogin1 -->
+    </test> <!-- exampletest1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

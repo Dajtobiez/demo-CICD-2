@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SeleniumTestSuite" parallel="none">
+    <test name="SeleniumTest">
+        <classes>
+            <class name="Y4.SeleniumTest">
+                <methods>
+                    <include name="loginUser"/>
+                    <include name="addProduct"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

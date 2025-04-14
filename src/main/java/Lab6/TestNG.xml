@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+
+<suite name = "Suite1" parallel="classes" thread-count="2">
+
+   <test name = "exampletest1">
+      <classes>
+         <class name = "Lab6.TestLogin1" />
+         <class name = "Lab6.TestLogin2" />
+      </classes>
+   </test>
+
+   
+
+</suite>
