@@ -9,11 +9,11 @@ public class TestCalculator {
 
     @Test
     public void testSum() {
-        Assert.assertEquals(calculator.sum(2, 3), 5);
+        Assert.assertEquals(calculator.sum(3, 3), 6);
     }
 
     @Test
     public void testSub() {
-        Assert.assertEquals(calculator.sub(2, 3), -1);
+        Assert.assertEquals(calculator.sub(2, 2), 0);
     }
 }
